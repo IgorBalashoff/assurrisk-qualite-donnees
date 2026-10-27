@@ -1,4 +1,4 @@
-# Brief 8 — AssurRisk
+#  AssurRisk
 ## Diagnostic de la qualité des données, risques et RGPD
 
 **Objectif :** évaluer la qualité et l’exploitabilité des données avant la mise en reporting.  
