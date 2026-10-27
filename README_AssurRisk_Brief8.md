@@ -1,4 +1,4 @@
-# AssurRisk — Brief 8
+# Audit et fiabilisation des données sinistres — AssurRisk
 
 ## Objectif
 Contrôler la qualité des données, repérer les anomalies susceptibles d'affecter les analyses et proposer des mesures de minimisation des données personnelles (RGPD).
